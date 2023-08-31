@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kind: 1
+  name: MyString
+  performer: one
+  location: one
+
+two:
+  kind: 1
+  name: MyString
+  performer: two
+  location: two
